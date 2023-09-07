@@ -3,6 +3,8 @@
 3rd Year Data Science Engineering Student @ ENSEIRB-MATMECA\
 Dev Team Intern @ POMELO-PARADIGM
 
+<img src='https://vbr.wocr.tk/badge?page_id=alecsou&style=for-the-badge&logo=Github&color=16a085'>
+
 ## Languages used and known
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
