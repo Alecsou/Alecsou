@@ -1,7 +1,7 @@
 # Alexandre "Alecsou" S.
 
 3rd Year Data Science Engineering Student @ ENSEIRB-MATMECA\
-Dev Team Intern @ POMELO-PARADIGM
+Ex-Dev Team Intern @ POMELO-PARADIGM
 
 ## Languages used and known
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
