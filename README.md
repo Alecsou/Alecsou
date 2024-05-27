@@ -43,4 +43,4 @@ Vehicle Performance Engineering Intern @ TOYOTA GAZOO Racing Europe
 
 ## Ongoing Projects
 
-### [BLS Discord Bot]([https://github.com/Alecsou/pitlaneassistant](https://github.com/users/Alecsou/projects/2))
+### [BLS Discord Bot](https://github.com/users/Alecsou/projects/2)
