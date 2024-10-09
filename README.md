@@ -1,8 +1,7 @@
 # Alexandre "Alecsou" S.
 
-3rd Year Data Science Engineering Student @ ENSEIRB-MATMECA\
-Ex-Dev Team Intern @ POMELO-PARADIGM\
-Vehicle Performance Engineering Intern @ TOYOTA GAZOO Racing Europe 
+HPC & Data Science Engineer Diploma @ ENSEIRB-MATMECA\
+Simulation & Performance Engineer @ TOYOTA GAZOO Racing Europe
 
 ## Languages used and known
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
