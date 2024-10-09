@@ -1,7 +1,8 @@
 # Alexandre "Alecsou" S.
 
-HPC & Data Science Engineer Diploma @ ENSEIRB-MATMECA\
-Simulation & Performance Engineer @ TOYOTA GAZOO Racing Europe
+**HPC & Data Science Engineer Diploma** @ ENSEIRB-MATMECA\
+**Simulation & Performance Engineer** @ TOYOTA GAZOO Racing Europe\
+**Operator** @ BADLANDS-SOCIETY (association)
 
 ## Languages used and known
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
